@@ -2,4 +2,5 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=flask
 
 ### Flask ###
+*.db
 my_venv/
